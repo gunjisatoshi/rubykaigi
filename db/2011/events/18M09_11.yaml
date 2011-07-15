@@ -8,6 +8,7 @@ presenters:
     bio: 
       en: "A hobby programmer."
       ja: "趣味グラマー"
+    gravatar: e6980e09fdff8f481b70f2e1f241231d
 title: 
   en: C die hard.
   ja: "C、イ㌔。"
